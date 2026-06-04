@@ -1,0 +1,5 @@
+pydantic-ai[google]
+pydantic>=2.0
+docker
+rich
+python-dotenv
